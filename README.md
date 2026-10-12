@@ -1,11 +1,20 @@
-
 # Paudhaawala website: bringing plant shopping, care and greener living into one experience
 
 **Paudhaawala is an online plant and green-living brand based in Mohali, Punjab. Its [website](https://paudhaawala.com/) is featured in the [Tech Conversion](https://techconversion.tech/) portfolio as a plants and lifestyle ecommerce project. The live platform brings indoor and outdoor plants, self-watering planters, plant combinations, growing advice and commercial greening services together, helping customers choose plants for their spaces and understand how to care for them.**
 
- Upload an authentic Paudhaawala homepage screenshot to images/, then remove this comment:
-![Paudhaawala ecommerce homepage showcasing indoor plants and planters](images/paudhaawala-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/paudhaawala-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/paudhaawala-website-mockup.webp" alt="Paudhaawala website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://paudhaawala.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/paudhaawala-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -48,52 +57,41 @@ The points below describe **features visible on the public website**, rather tha
 7. **Create a distinct commercial route.** The homepage introduces office greening, landscaping, luxury villas, hospitality spaces and wholesale plant supply. The [Landscape](https://paudhaawala.com/landscape/) page goes deeper into these enquiries.
 8. **Make browsing social and visual.** The site uses product photography, featured collections, reviews and customer testimonials. Any success, satisfaction or health-related claim should be evaluated against its underlying evidence.
 
-## Project images and visual direction
+## Website and project images
 
-**Authentic website screenshots have not been included in this repository yet.** The reviewed Tech Conversion file library did not contain a clearly identifiable original Paudhaawala homepage, product-grid, product-detail or mobile screenshot. To avoid misrepresenting unrelated imagery as client work, the image paths below remain commented out until you upload the real files.
+### Official website mockup
 
-### Homepage and brand presentation
+The following Tech Conversion portfolio mockup presents Paudhaawala as a polished plants and lifestyle ecommerce project.
 
- Add an actual authorised homepage capture:
-![Paudhaawala homepage and featured plant collections](images/paudhaawala-homepage.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/paudhaawala-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/paudhaawala-website-mockup.webp" alt="Paudhaawala responsive ecommerce website mockup" width="100%" />
+  </a>
+</p>
 
-### Plant shopping and product discovery
+*Click the image to open the full-resolution mockup.*
 
- Add a genuine screenshot of https://paudhaawala.com/shop/ :
-![Paudhaawala plant shop filters, products and categories](images/paudhaawala-shop.webp)
+### Full-length website screenshot
 
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
 
-### Product variations and buying journey
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/paudhaawala-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/paudhaawala-new-website-home-page.webp" alt="Paudhaawala complete plant ecommerce website homepage screenshot" width="100%" />
+  </a>
+</p>
 
-Add a genuine product-page screenshot with no personal details:
-![Paudhaawala plant product detail and planter variations](images/paudhaawala-product-detail.webp)
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
 
+### Image provenance
 
-### Self-watering planters
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` screenshot placeholders and the `IMAGE-SOURCES.md` dependency.
 
- Add the original self-watering planter section screenshot:
-![Paudhaawala self-watering planters section](images/paudhaawala-self-watering-planters.webp)
+These images document the Paudhaawala website project visually, but they are **not evidence of measured increases in traffic, orders, conversion rate, average order value, search rankings, landscaping enquiries or revenue**.
 
-
-### Plant care guidance
-
- Add a genuine screenshot from the plant-care page:
-![Paudhaawala plant care guides and maintenance tips](images/paudhaawala-plant-care.webp)
-
-
-### Landscaping and corporate solutions
-
-Add an approved screenshot of the commercial greening page:
-![Paudhaawala landscape and commercial greening services](images/paudhaawala-landscape.webp)
-
-
-### Mobile ecommerce experience
-
- Add an authentic mobile screenshot:
-![Paudhaawala responsive mobile plant shopping experience](images/paudhaawala-mobile.webp)
-
-
-For accepted images, names and documentation rules, see [IMAGE-SOURCES.md](IMAGE-SOURCES.md). Once those files are supplied, remove the HTML comment markers so GitHub renders them. **No AI-created or generic plant images have been passed off as authentic Paudhaawala website captures.**
+Because the project images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced using relative paths.
 
 ## Key visitor journeys
 
@@ -122,9 +120,9 @@ These are **appropriate evaluation references**, not claims that a formal audit 
 
 ## Before and after
 
-An authenticated pair of **older and current production website screenshots** was not found in the reviewed files. The portfolio listing establishes Paudhaawala as a Tech Conversion project, but does not by itself substantiate a particular historical redesign or measurable performance change.
+A full-page screenshot of the delivered Paudhaawala website is available and included above. However, **no authenticated historical BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a redesign comparison.
 
-A future before-and-after section should compare original dated captures of the homepage, shopping filters, product pages and mobile navigation. Avoid treating a new visual mockup as evidence of a deployed improvement.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 ## Results
 
@@ -138,6 +136,15 @@ A future before-and-after section should compare original dated captures of the 
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech) · +91 91507 86547
 
-This repository is a **public project case-study record**, not a release of production source code, private orders, customer addresses, checkout credentials, proprietary client materials or confidential business information. Paudhaawala's logo, product photographs and brand intellectual property remain with their respective owners.
+## Repository scope and image credits
+
+This repository is a **public project case-study record**, not a release of production source code, private orders, customer addresses, checkout credentials, proprietary client materials or confidential business information.
+
+The website mockup and full-page screenshot are sourced from Tech Conversion's public project media. Paudhaawala's logo, product photographs and brand intellectual property remain with their respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
